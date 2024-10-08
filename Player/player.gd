@@ -1,7 +1,7 @@
 class_name Player
 extends CharacterBody2D
 
-@export var SPEED: float = 120.0
+@export var SPEED: float = 140.0
 @export var jump_height: float = 85.0
 @export var jump_time_to_peak: float = 0.5
 @export var fall_time_to_peak: float = 0.4
