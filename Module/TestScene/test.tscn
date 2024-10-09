@@ -48,6 +48,9 @@ animations = [{
 [node name="Test" type="Node2D"]
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-position = Vector2(538, 312)
+position = Vector2(538, 313)
+scale = Vector2(2, 2.034)
 sprite_frames = SubResource("SpriteFrames_yh2w6")
-frame_progress = 0.312774
+autoplay = "default"
+frame = 3
+frame_progress = 0.746502
